@@ -7,5 +7,5 @@ setup(name='geo_street_talk',
       author='Yukun Wan',
       author_email='yw3447@nyu.edu',
       license='MIT',
-      packages=['geo-street-talk'],
+      packages=['geo_street_talk'],
       zip_safe=False)
