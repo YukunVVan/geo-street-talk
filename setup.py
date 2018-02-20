@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='geo-street-talk',
+setup(name='geo_street_talk',
       version='0.1',
       description='Geo-street-talk',
       url='https://github.com/YukunVVan/geo-street-talk/',
